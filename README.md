@@ -5,5 +5,5 @@
 - [x] Authentication
 - [x] Create collection
 - [x] Input box
-- [ ] only allow loggedIn users to input
-- [ ] frontend
+- [x] only allow loggedIn users to input
+- [x] frontend
