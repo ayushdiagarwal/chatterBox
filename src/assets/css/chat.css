@@ -16,6 +16,26 @@ body {
 }
 
 .row {
-    justify-content: flex;
+    display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input-wrapper {
+    margin-top: 2em;
+    position: fixed;
+    bottom: 2em; /* Sticks the input box to the bottom */
+    left: 4em;
+    padding: 10px;
+  }
+
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.messages {
+    padding-bottom: 5em;
 }

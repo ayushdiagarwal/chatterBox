@@ -9,9 +9,13 @@ function Chat() {
             <div className="row">
                 <h1>ChatterBox</h1>
                 <Logout />
-            </div>      
-            <Messages />
-            <MessageBox />
+            </div> 
+            <div className="col">    
+                <div className="messages"> 
+                    <Messages />
+                </div>
+                <MessageBox />
+            </div>
         </>
     );
 }

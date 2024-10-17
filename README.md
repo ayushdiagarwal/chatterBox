@@ -2,8 +2,8 @@
 
 ### Todo
 
-- [ ] Authentication
-- [ ] Create collection
-- [ ] Input box
+- [x] Authentication
+- [x] Create collection
+- [x] Input box
 - [ ] only allow loggedIn users to input
 - [ ] frontend
